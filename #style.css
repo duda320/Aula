@@ -1,14 +1,14 @@
 .cabecalho {
     background-color: blueviolet;
-    color: aliceblue;
+    color: rgb(202, 228, 250);
     display: flex;
     padding: 24px 0;
 }
 
-.section1.{
+.section1 {
     background-color: brown;
 }
 
-.section2{
+.section2 {
     background-color: blue;
 }
