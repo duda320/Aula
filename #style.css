@@ -6,11 +6,15 @@
 }
 
 .section1 {
-    background-color: brown;
+    background-color: blueviolet;
     padding: 100px;
 }
 
-.section2 {
+.section2{
     background-color: blue;
     padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 20%;
 }
